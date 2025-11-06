@@ -4,7 +4,7 @@ Chọn phiên bản LearnPress 4.1.7.3.2
 
 1 container mysql
 
-1 container wordpress (php + apache)
+1 container wordpress 
 
 ![image.png](image.png)
 
